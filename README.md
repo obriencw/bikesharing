@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-My fictional friend Kate has a potential "angel investor" who is interested in starting a bike-sharing company in Des Moines, IA.  The purpose of this analysis was to analyze NYC Citibike data to determine if a similar bike-sharing business could be successful in Des Moines.  For this project we used Tableau to visualize the data from our analysis to create powerful analyitic dashboards that tell a clear story and can easily be shared with others.
+My fictional friend Kate has a potential "angel investor" who is interested in starting a bike-sharing company in Des Moines, IA.  The purpose of this analysis was to analyze NYC Citibike data to determine if a similar bike-sharing business could be successful in Des Moines.  For this project we used Tableau to visualize the data from our analysis to create powerful analytic dashboards that tell a clear story and can easily be shared with others.
 ## Results
 Analysing the NYC Citibike data and creating visualizations using Tableau will hopefully compell our "angel investor" to suppor the Des Moines bikesharing business.  A recap of the most notable points of the analysis are reviewed below with accompanying chart.
 In the chart below we can see that most of the trip durations are under 20 minutes with a minimal number of users registering trip durations over 60 minutes.
